@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ExampleSite</title>
-    <link>https://whimsical-arithmetic-312d1c.netlify.app/</link>
+    <link>https://prodipkumarblog.netlify.app/</link>
     <description>Recent content on ExampleSite</description>
     <image>
-      <url>https://whimsical-arithmetic-312d1c.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://whimsical-arithmetic-312d1c.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://prodipkumarblog.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://prodipkumarblog.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://whimsical-arithmetic-312d1c.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://prodipkumarblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://whimsical-arithmetic-312d1c.netlify.app/posts/org-blog/</link>
+      <link>https://prodipkumarblog.netlify.app/posts/org-blog/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://whimsical-arithmetic-312d1c.netlify.app/posts/org-blog/</guid>
+      <guid>https://prodipkumarblog.netlify.app/posts/org-blog/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 2nd post</title>
-      <link>https://whimsical-arithmetic-312d1c.netlify.app/posts/it-was-so-hard/</link>
+      <link>https://prodipkumarblog.netlify.app/posts/it-was-so-hard/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://whimsical-arithmetic-312d1c.netlify.app/posts/it-was-so-hard/</guid>
+      <guid>https://prodipkumarblog.netlify.app/posts/it-was-so-hard/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>My 3rd post</title>
-      <link>https://whimsical-arithmetic-312d1c.netlify.app/posts/another-error/</link>
+      <link>https://prodipkumarblog.netlify.app/posts/another-error/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://whimsical-arithmetic-312d1c.netlify.app/posts/another-error/</guid>
+      <guid>https://prodipkumarblog.netlify.app/posts/another-error/</guid>
       <description>Desc Text.</description>
     </item>
     
