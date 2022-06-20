@@ -1,4 +1,5 @@
-baseURL: "https://prodiptushar.github.io/blog"
+#baseURL: "https://prodiptushar.github.io/blog"
+baseURL: "https://whimsical-arithmetic-312d1c.netlify.app"
 title: ExampleSite
 paginate: 5
 theme: hugo-PaperMod
