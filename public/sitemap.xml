@@ -2,21 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/categories/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/first/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/categories/emacs/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/org-blog/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/hugo/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/categories/hugo/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/posts/org-blog/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/posts/it-was-so-hard/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/posts/another-error/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/netlify/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/categories/papermod/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/posts/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/second/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://magnificent-begonia-d759bf.netlify.app/tags/third/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
 </urlset>
