@@ -1,5 +1,5 @@
 #baseURL: "https://prodiptushar.github.io/blog"
-baseURL: "https://prodipkumarblog.netlify.app"
+baseURL: "https://prodipblog.netlify.app"
 title: "Prodip Kumar"
 paginate: 5
 theme: hugo-PaperMod
