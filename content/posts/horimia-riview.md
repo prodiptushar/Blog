@@ -1,7 +1,6 @@
 ---
-categories: [""]
-date: 2022-08-11T13:00:00Z
 title: "Horimia Riview"
+date: 2022-08-11T16:15:30+06:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first","third"]
@@ -13,7 +12,6 @@ hidemeta: false
 comments: false
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
