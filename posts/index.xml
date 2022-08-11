@@ -20,11 +20,29 @@
     </item>
     
     <item>
-      <title>My 1st post</title>
-      <link>https://prodipkumarblog.netlify.app/posts/org-blog/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>Horimia Review</title>
+      <link>https://prodipkumarblog.netlify.app/posts/horimia-review/</link>
+      <pubDate>Thu, 11 Aug 2022 16:15:30 +0600</pubDate>
       
-      <guid>https://prodipkumarblog.netlify.app/posts/org-blog/</guid>
+      <guid>https://prodipkumarblog.netlify.app/posts/horimia-review/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Horimia Riview</title>
+      <link>https://prodipkumarblog.netlify.app/posts/horimia-riview/</link>
+      <pubDate>Thu, 11 Aug 2022 16:15:30 +0600</pubDate>
+      
+      <guid>https://prodipkumarblog.netlify.app/posts/horimia-riview/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Best Quotes</title>
+      <link>https://prodipkumarblog.netlify.app/posts/best-quotes/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://prodipkumarblog.netlify.app/posts/best-quotes/</guid>
       <description>Desc Text.</description>
     </item>
     
@@ -36,7 +54,6 @@
       <guid>https://prodipkumarblog.netlify.app/posts/another-error/</guid>
       <description>Desc Text.</description>
     </item>
-    
     
   </channel>
 </rss>
