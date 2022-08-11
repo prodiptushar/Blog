@@ -2,49 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://prodipkumarblog.netlify.app/categories/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/categories/emacs/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://prodipkumarblog.netlify.app/posts/emacs_tricks/</loc>
+    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
     <loc>https://prodipkumarblog.netlify.app/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
-    <loc>https://prodipkumarblog.netlify.app/tags/hugo/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://prodipkumarblog.netlify.app/posts/</loc>
+    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
-    <loc>https://prodipkumarblog.netlify.app/categories/hugo/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://prodipkumarblog.netlify.app/</loc>
+    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
+  </url><url>
+    <loc>https://prodipkumarblog.netlify.app/tags/</loc>
+    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
     <loc>https://prodipkumarblog.netlify.app/posts/org-blog/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/posts/it-was-so-hard/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://prodipkumarblog.netlify.app/posts/another-error/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://prodipkumarblog.netlify.app/tags/netlify/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/categories/papermod/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/tags/second/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipkumarblog.netlify.app/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://prodipkumarblog.netlify.app/tags/third/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipkumarblog.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://prodipkumarblog.netlify.app/posts/search/</loc>
+  </url><url>
+    <loc>https://prodipkumarblog.netlify.app/search/</loc>
   </url>
 </urlset>
