@@ -1,6 +1,6 @@
 #baseURL: "https://prodiptushar.github.io/blog"
 baseURL: "https://prodipkumarblog.netlify.app"
-title: ExampleSite
+title: "Prodip Kumar"
 paginate: 5
 theme: hugo-PaperMod
 
@@ -18,9 +18,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  description: "Personal Blog about Tech, Education, Linux"
+  keywords: [Blog, Portfolio, Linux, Emacs]
+  author: "Prodip Kumar"
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -31,7 +31,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -49,7 +49,7 @@ params:
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+    apple_touch_icon: ""
     safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -60,11 +60,11 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    title: Prodip Kumar
+    subtitle: "Sharing the life with the world "
+    imageUrl: "profile.png"
+    imageWidth: 320
+    imageHeight: 420
     imageTitle: my image
     buttons:
       - name: Posts
@@ -113,6 +113,13 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
 menu:
   main:
     - identifier: categories
@@ -123,9 +130,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: search
+      pageref: search
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
