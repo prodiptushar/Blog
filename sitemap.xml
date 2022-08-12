@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://prodipblog.netlify.app/categories/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/posts/common-medical-preperation-mistakes-to-avoid/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/categories/education/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/tags/medical/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/tags/mistake/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/posts/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/tags/preparation/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/tags/second_time/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prodipblog.netlify.app/tags/</loc>
+    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://prodipblog.netlify.app/posts/emacs_tricks/</loc>
     <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
     <loc>https://prodipblog.netlify.app/tags/first/</loc>
-    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
-  </url><url>
-    <loc>https://prodipblog.netlify.app/posts/</loc>
-    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
-  </url><url>
-    <loc>https://prodipblog.netlify.app/</loc>
-    <lastmod>2022-08-11T16:15:30+06:00</lastmod>
-  </url><url>
-    <loc>https://prodipblog.netlify.app/tags/</loc>
     <lastmod>2022-08-11T16:15:30+06:00</lastmod>
   </url><url>
     <loc>https://prodipblog.netlify.app/posts/best-quotes/</loc>
@@ -22,8 +43,6 @@
   </url><url>
     <loc>https://prodipblog.netlify.app/tags/third/</loc>
     <lastmod>2022-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://prodipblog.netlify.app/categories/</loc>
   </url><url>
     <loc>https://prodipblog.netlify.app/search/</loc>
   </url>

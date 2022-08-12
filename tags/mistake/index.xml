@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Prodip Kumar</title>
-    <link>https://prodipblog.netlify.app/posts/</link>
-    <description>Recent content in Posts on Prodip Kumar</description>
+    <title>mistake on Prodip Kumar</title>
+    <link>https://prodipblog.netlify.app/tags/mistake/</link>
+    <description>Recent content in mistake on Prodip Kumar</description>
     <image>
       <url>https://prodipblog.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://prodipblog.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://prodipblog.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://prodipblog.netlify.app/tags/mistake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Common Medical Preparation Mistakes to Avoid</title>
       <link>https://prodipblog.netlify.app/posts/common-medical-preperation-mistakes-to-avoid/</link>
@@ -17,24 +17,6 @@
       
       <guid>https://prodipblog.netlify.app/posts/common-medical-preperation-mistakes-to-avoid/</guid>
       <description>Some common mistake that students make during their first time mat exam.</description>
-    </item>
-    
-    <item>
-      <title>Emacs tricks</title>
-      <link>https://prodipblog.netlify.app/posts/emacs_tricks/</link>
-      <pubDate>Thu, 11 Aug 2022 16:15:30 +0600</pubDate>
-      
-      <guid>https://prodipblog.netlify.app/posts/emacs_tricks/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Best Quotes</title>
-      <link>https://prodipblog.netlify.app/posts/best-quotes/</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://prodipblog.netlify.app/posts/best-quotes/</guid>
-      <description>Desc Text.</description>
     </item>
     
   </channel>
